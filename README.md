@@ -1,20 +1,23 @@
-<p align="center">
+<center>
   <a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><img src="./assets/banner.png" alt="my banner"></a>
-</p>
+</center>
 
 <br>
 
-<h3 align="center">
+<center>
 Hi there!, I'm <a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a> 👋
-</h3>
+</center>
 
-<h2 align="center">
-I'm a Full-Stack Developer 💻, and Designer 🎨!
-</h2> 
+<center>
+<h3><strong>I'm a Full-Stack Developer, and Designer!</strong></h3>
+</center> 
+
+<center> 💻 🎨 🧷 🤏🏽 💡 🌐 💾 💰 📚 📋 </center>
 
 <br>
+<hr>
 
-#### I'm a student for __*islamic studies*__ at Internaional University of Africa in Khartoum, Sudan, just i like to trying anything new in my life, like **coding** for example.
+#### I'm a student for __*islamic studies*__ at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like **coding** for example.
 ___
 
 <br>
@@ -28,6 +31,7 @@ ___
 ## 🌱 I'm currently learning :
 
 - > Trying the __*Phyton*__ with __*Flask*__ web framework 
+- > Trying the __*JS Testing*__ with __*Jest*__, __*Mocha*__ and __*Chai*__
 
 <br>
 
@@ -69,14 +73,16 @@ ___
 
 1. > Tools 
 
-     ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=red)
-     ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&color=blue)
-     ![](https://img.shields.io/badge/Tools-JWT-informational?style=flat&logo=JSON%20web%20tokens&color=white)
-     ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&color=black)
-     ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=lightblue)
-     ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=red)
-     ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&color=white)
-     ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&color=blue)
+    - ![](https://img.shields.io/badge/Packages-NPM-informational?style=flat&logo=npm&color=red)
+    - ![](https://img.shields.io/badge/Packages-Yarn-informational?style=flat&logo=yarn&color=blue)
+    - ![](https://img.shields.io/badge/Auth-JWT-informational?style=flat&logo=JSON%20web%20tokens&color=white)
+    - ![](https://img.shields.io/badge/Host-Vercel-informational?style=flat&logo=vercel&color=black)
+    - ![](https://img.shields.io/badge/Host-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+    - ![](https://img.shields.io/badge/Host-Heroku-informational?style=flat&logo=heroku&color=333333)
+    - ![](https://img.shields.io/badge/Control-Git-informational?style=flat&logo=git&color=red)
+    - ![](https://img.shields.io/badge/Control-Github-informational?style=flat&logo=github&color=white)
+    - ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=lightblue)
+    - ![](https://img.shields.io/badge/Tools-Fedora-informational?style=flat&logo=fedora&color=darkblue)
 
 <br>
 
@@ -85,10 +91,34 @@ ___
 <br>
 
 ## 🤝 Find me on :
-> __[WhatsApp](http://wa.me/+2491212089)__
+> __[WhatsApp](http://wa.me/+249121208279)__
 
 > __[Instagram](https://instagram.com/saifuddien_)__
 
 > __[Twitter](https://twitter.com/saifuddien_)__
 
 > __[Facebook](https://facebook.com/saifuddien01)__
+
+<br>
+
+---
+
+<br>
+
+***
+
+<br>
+
+***
+
+<br>
+
+***
+
+<br>
+
+***
+
+<br>
+
+***
