@@ -25,7 +25,7 @@ ___
 
 <br>
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently learning :
 
 - > Trying the __*Phyton*__ with __*Flask*__ web framework 
 
@@ -35,7 +35,7 @@ ___
 
 <br>
 
-## 💼 Technical Skills
+## 💼 Technical Skills :
 
 1. > Natives
 
@@ -69,8 +69,6 @@ ___
 
 1. > Tools 
 
-    <br>
-
      ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=red)
      ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&color=blue)
      ![](https://img.shields.io/badge/Tools-JWT-informational?style=flat&logo=JSON%20web%20tokens&color=white)
@@ -86,7 +84,7 @@ ___
 
 <br>
 
-## 🤝 Find me on
+## 🤝 Find me on :
 > __[WhatsApp](https://wa.me//+2491212089)__
 
 > __[Instagram](https://instagram.com/saifuddien_)__
