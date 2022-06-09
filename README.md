@@ -85,7 +85,7 @@ ___
 <br>
 
 ## 🤝 Find me on :
-> __[WhatsApp](https://wa.me//+2491212089)__
+> __[WhatsApp](http://wa.me/+2491212089)__
 
 > __[Instagram](https://instagram.com/saifuddien_)__
 
