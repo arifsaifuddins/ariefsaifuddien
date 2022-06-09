@@ -1,23 +1,18 @@
-<p align="center">
-  <a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><img src="./assets/banner.png" alt="my banner"></a>
-</p>
+<p align="center"><a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><img src="./assets/banner.png" alt="my banner"></a></p>
 
 <br>
 
-<p align="center">
-Hi there!, I'm <a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a> 👋
-</p>
+<p align="center">Hi there!, I'm <a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a> 👋</p>
 
-<h3 align="center">
-<strong>I'm a Full-Stack Developer, and Designer!</strong>
-</p> 
+<h3 align="center"><strong>I'm a Full-Stack Developer, and Designer!</strong></h3> 
 
 <p align="center"> 💻 🎨 🤏🏽 💡 🌐 💾 💰 📋 </p>
 
 <br>
 <hr>
 
-#### 📚 📚 I'm a student for __*islamic studies*__ at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like **coding** for example.
+<p align="center">📚 📚 I'm a student for <strong><i>Islamic Studies</i></strong> at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like <strong>coding</strong> for example.</p> 
+
 ___
 
 <br>
@@ -30,8 +25,18 @@ ___
 
 ## 🌱 I'm currently learning :
 
-- > Trying the __*Phyton*__ with __*Flask*__ web framework 
+- > Trying the __*Phyton*__ with __*Flask*__ web framework
+
+    - ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=003B57)
+    - ![](https://img.shields.io/badge/Server-Flask-informational?style=flat&logo=flask&color=white)
+
+    <br>
+
 - > Trying the __*JS Testing*__ with __*Jest*__, __*Mocha*__ and __*Chai*__
+
+    - ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&color=red)
+    - ![](https://img.shields.io/badge/Testing-Mocha-informational?style=flat&logo=mocha&color=brown)
+    - ![](https://img.shields.io/badge/Testing-Chai-informational?style=flat&logo=chai&color=lightgrey)
 
 <br>
 
@@ -68,6 +73,7 @@ ___
     - ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=007700)
     - ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&color=eeeeee)
     - ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=lightblue)
+    - ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=darkgrey)
 
     <br>
 
@@ -79,6 +85,8 @@ ___
     - ![](https://img.shields.io/badge/Host-Vercel-informational?style=flat&logo=vercel&color=black)
     - ![](https://img.shields.io/badge/Host-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
     - ![](https://img.shields.io/badge/Host-Heroku-informational?style=flat&logo=heroku&color=333333)
+    - ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=333fff)
+    - ![](https://img.shields.io/badge/Tools-Affinity-informational?style=flat&logo=affinity-designer&color=blue)
     - ![](https://img.shields.io/badge/Control-Git-informational?style=flat&logo=git&color=red)
     - ![](https://img.shields.io/badge/Control-Github-informational?style=flat&logo=github&color=white)
     - ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=lightblue)
