@@ -1,23 +1,23 @@
-<center>
+<p align="center">
   <a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><img src="./assets/banner.png" alt="my banner"></a>
-</center>
+</p>
 
 <br>
 
-<center>
+<p align="center">
 Hi there!, I'm <a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a> 👋
-</center>
+</p>
 
-<center>
-<h3><strong>I'm a Full-Stack Developer, and Designer!</strong></h3>
-</center> 
+<h3 align="center">
+<strong>I'm a Full-Stack Developer, and Designer!</strong>
+</p> 
 
-<center> 💻 🎨 🧷 🤏🏽 💡 🌐 💾 💰 📚 📋 </center>
+<p align="center"> 💻 🎨 🤏🏽 💡 🌐 💾 💰 📋 </p>
 
 <br>
 <hr>
 
-#### I'm a student for __*islamic studies*__ at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like **coding** for example.
+#### 📚 📚 I'm a student for __*islamic studies*__ at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like **coding** for example.
 ___
 
 <br>
