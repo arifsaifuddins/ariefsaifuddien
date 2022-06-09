@@ -91,13 +91,13 @@ ___
 <br>
 
 ## 🤝 Find me on :
-> __[WhatsApp](http://wa.me/+249121208279)__
+* > __[WhatsApp](http://wa.me/+249121208279)__
 
-> __[Instagram](https://instagram.com/saifuddien_)__
+* > __[Instagram](https://instagram.com/saifuddien_)__
 
-> __[Twitter](https://twitter.com/saifuddien_)__
+* > __[Twitter](https://twitter.com/saifuddien_)__
 
-> __[Facebook](https://facebook.com/saifuddien01)__
+* > __[Facebook](https://facebook.com/saifuddien01)__
 
 <br>
 
