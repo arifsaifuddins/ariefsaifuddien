@@ -107,25 +107,11 @@ ___
 
 * > __[Facebook](https://facebook.com/saifuddien01)__
 
+* > __[Email](mailto:ariefsaifuddien01@gmail.com)__
+
 <br>
 
 ---
-
-<br>
-
-***
-
-<br>
-
-***
-
-<br>
-
-***
-
-<br>
-
-***
 
 <br>
 
