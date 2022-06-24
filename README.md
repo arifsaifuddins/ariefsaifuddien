@@ -25,13 +25,6 @@ ___
 
 ## 🌱 I'm currently learning :
 
-- > Trying the __*Phyton*__ with __*Flask*__ web framework
-
-    - ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=003B57)
-    - ![](https://img.shields.io/badge/Server-Flask-informational?style=flat&logo=flask&color=white)
-
-    <br>
-
 - > Trying the __*JS Testing*__ with __*Jest*__, __*Mocha*__ and __*Chai*__
 
     - ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&color=red)
@@ -52,10 +45,12 @@ ___
     - ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&color=1572B6)
     - ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&color=F7DF1E)
     - ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&color=334477)
+    - ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=003B57)
 
     <br>
 
 1. > Frameworks
+
     - ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=553399)
     - ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwind-css&color=117799)
     - ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&color=pink)
@@ -65,11 +60,13 @@ ___
     - ![](https://img.shields.io/badge/Language-Vue-informational?style=flat&logo=vuedotjs&color=11ss11)
     - ![](https://img.shields.io/badge/Server-Node-informational?style=flat&logo=node.js&color=007700)
     - ![](https://img.shields.io/badge/Server-Express-informational?style=flat&logo=express&color=aaaaaa)
+    - ![](https://img.shields.io/badge/Server-Flask-informational?style=flat&logo=flask&color=white)
     - ![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo&color=222222)
 
     <br>
 
 1. > Databases
+
     - ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=007700)
     - ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&color=eeeeee)
     - ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=lightblue)
