@@ -54,7 +54,6 @@ ___
     - ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=553399)
     - ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwind-css&color=117799)
     - ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&color=pink)
-    - ![](https://img.shields.io/badge/Language-Codeigniter-informational?style=flat&logo=codeIgniter&color=red)
     - ![](https://img.shields.io/badge/Language-Laravel-informational?style=flat&logo=Laravel&color=darkred)
     - ![](https://img.shields.io/badge/Language-jQuery-informational?style=flat&logo=jquery&color=ffffff)
     - ![](https://img.shields.io/badge/Language-React-informational?style=flat&logo=react&color=61DAFB)
