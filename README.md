@@ -1,7 +1,3 @@
-<p align="center"><a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><img src="./assets/banner.png" alt="my banner"></a></p>
-
-<br>
-
 <p align="center">Hi there!, I'm <a href="https://instagram.com/saifuddien_" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a> 👋</p>
 
 <h3 align="center"><strong>I'm a Full-Stack Developer, and Designer!</strong></h3> 
