@@ -89,13 +89,15 @@ ___
 
 * > __[WhatsApp](http://wa.me/+249121208279)__
 
-* > __[Instagram](https://instagram.com/saifuddien_)__
+* > __[Instagram](https://instagram.com/ariefsaifudien)__
 
-* > __[Twitter](https://twitter.com/saifuddien_)__
+* > __[Twitter](https://twitter.com/ariefsaifudien)__
 
-* > __[Facebook](https://facebook.com/saifuddien01)__
+* > __[Facebook](https://facebook.com/ariefsaifudien01)__
 
 * > __[Email](mailto:ariefsaifuddien01@gmail.com)__
+
+* > __[LinkedIn](https://linkedin.com/in/ariefsaifuddien)__
 
 <br>
 
