@@ -35,7 +35,7 @@ ___
     - ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&color=F7DF1E)
     - ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&color=334477)
     - ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=003B57)
-    - ![](https://img.shields.io/badge/Language-Golang-informational?style=flat&logo=Golang&color=FFFFFF)
+    - ![](https://img.shields.io/badge/Language-Golang-informational?style=flat&logo=Go&color=FFFFFF)
 
     <br>
 
