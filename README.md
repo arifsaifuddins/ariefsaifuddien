@@ -17,8 +17,8 @@ ___
 
 ## 🔭 I'm currently working on :
 
-- > PPI Sudan Web __[PPI](https://ppisudan.com)__ by NodeJS, PHP, MongoDB, MySQL, ReactJS, TailwindCSS
-- > Quran Rewayah __[API](https://quran-rewayah.vercel.app)__ by __NodeJS, ReactJS__ with __[Toyin](https://github.com/Toyin5)__
+- > PPI Sudan __[PPI](https://ppisudan.com)__ by __NodeJS, PHP, MongoDB, MySQL, ReactJS, TailwindCSS__
+- > Faculty of Islamic Studies __[IUA](https://github.com/ariefsaifuddien/islamic_studies_web)__ by __NodeJS, ReactJS, PHP, TailwindCSS__
 
 <br>
 
@@ -52,6 +52,7 @@ ___
     - ![](https://img.shields.io/badge/Server-Node-informational?style=flat&logo=node.js&color=007700)
     - ![](https://img.shields.io/badge/Server-Express-informational?style=flat&logo=express&color=aaaaaa)
     - ![](https://img.shields.io/badge/Server-Flask-informational?style=flat&logo=flask&color=white)
+    - ![](https://img.shields.io/badge/Server-Fiber-informational?style=flat&logo=go&color=lightblue)
     - ![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo&color=222222)
 
     <br>
