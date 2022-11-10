@@ -48,7 +48,6 @@ ___
     - ![](https://img.shields.io/badge/Language-jQuery-informational?style=flat&logo=jquery&color=ffffff)
     - ![](https://img.shields.io/badge/Language-React-informational?style=flat&logo=react&color=61DAFB)
     - ![](https://img.shields.io/badge/Language-Vue-informational?style=flat&logo=vuedotjs&color=11ss11)
-    - ![](https://img.shields.io/badge/Language-Svelte-informational?style=flat&logo=svelte&color=red)
     - ![](https://img.shields.io/badge/Server-Node-informational?style=flat&logo=node.js&color=007700)
     - ![](https://img.shields.io/badge/Server-Express-informational?style=flat&logo=express&color=aaaaaa)
     - ![](https://img.shields.io/badge/Server-Flask-informational?style=flat&logo=flask&color=white)
