@@ -2,31 +2,27 @@
 
 <p align="center">Hi there!, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a> 👋</p>
 
-<h3 align="center"><strong>I'm a Full-Stack Developer (Junior), and Designer!</strong></h3> 
+<h4 align="center"><strong>I'm a Full-Stack Developer (Junior), and Designer!</strong></h4> 
 
 <p align="center"> 💻 🎨 🤏🏽 💡 🌐 💾 💰 📋 </p>
 
 <br>
-<hr>
 
-<p align="center">📚 📚 I'm a student for <strong><i>Islamic Studies</i></strong> at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like <strong>coding</strong> for example.</p> 
+<h5 align="center">📚 📚 I'm a student for <strong><i>Islamic Studies</i></strong> at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like <strong>coding</strong> for example. Enjoy hacking! 👌👌</h5> 
 
 ___
 
 <br>
 
-## 🔭 I'm currently working on :
+## 🔭 I'm currently working on:
 
 - > PPI Sudan __[PPI](https://ppisudan.com)__ by __NodeJS, PHP, MongoDB, MySQL, ReactJS, TailwindCSS__
 - > Faculty of Islamic Studies __[IUA](https://github.com/ariefsaifuddien/islamic_studies_web)__ by __NodeJS, ReactJS, PHP, TailwindCSS__
 
 <br>
-
----
-
 <br>
 
-## 💼 Technical Skills :
+## 💼 Technical Skills:
 
 1. > Natives
 
@@ -59,8 +55,9 @@ ___
 1. > Databases
 
     - ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=007700)
-    - ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&color=eeeeee)
+    - ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&color=bbbbbb)
     - ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=lightblue)
+    - ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=white)
     - ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=darkgrey)
 
     <br>
@@ -78,12 +75,9 @@ ___
     - ![](https://img.shields.io/badge/Tools-Fedora-informational?style=flat&logo=fedora&color=darkblue)
 
 <br>
-
----
-
 <br>
 
-## 🤝 Find me on :
+## 🤝 Find me on:
 
 * > __[WhatsApp](http://wa.me/+249121208279)__
 
