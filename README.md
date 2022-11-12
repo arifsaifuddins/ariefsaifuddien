@@ -1,10 +1,10 @@
 <br>
 
-<h3 align="center">Hi there! 👋, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a></h3>
+<h3 align="center">Hi folks! 👋, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a></h3>
 
 ---
 
-<p align="center">I'm a student for <strong><i>Islamic Studies</i></strong> at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like <strong>coding</strong> for example. Enjoy hacking! ✌</p> 
+<p align="center">I'm a student for <strong><i>Islamic Studies</i></strong> at <code>Internaional University of Africa</code> in Khartoum, Sudan. Just i like to trying new things in my life, like <code>coding</code> for example. Enjoy hacking! ✌</p> 
 
 ---
 
@@ -12,9 +12,9 @@
 
 ### Working on:
 
-> PPI Sudan __[WEB](https://ppisudan.com)__ 
+> __[Web](https://ppisudan.com)__ ```PPI Sudan```
 
-> Faculty of Islamic Studies __[WEB](https://github.com/ariefsaifuddien/islamic_studies_web)__
+> __[Web](https://github.com/ariefsaifuddien/islamic_studies_web)__ ```Faculty of Islamic Studies```
 
 <br>
 
@@ -76,10 +76,10 @@
 ---
 
 <p align="center">
-  <a href="http://wa.me/+249121208279" target="_blank" rel="noreferrer"><img alt="wa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a> ... 
-  <a href="https://instagram.com/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> ... 
-  <a href="https://twitter.com/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="tw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> ... 
-  <a href="https://facebook.com/ariefsaifudien01" target="_blank" rel="noreferrer"><img alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> ... 
-  <a href="https://linkedin.com/in/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="li" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> ... 
+  <a href="http://wa.me/+249121208279" target="_blank" rel="noreferrer"><img alt="wa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a> .. 
+  <a href="https://instagram.com/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> .. 
+  <a href="https://twitter.com/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="tw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> .. 
+  <a href="https://facebook.com/ariefsaifudien01" target="_blank" rel="noreferrer"><img alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> .. 
+  <a href="https://linkedin.com/in/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="li" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> .. 
   <a href="mailto:ariefsaifudien01@gmail.com" target="_blank" rel="noreferrer"><img alt="gm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" color="red" /></a>
 </p>
