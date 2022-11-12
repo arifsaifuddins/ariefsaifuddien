@@ -11,6 +11,8 @@
 <br>
 <br>
 
+---
+
 <div align="center">📚 📚 I'm a student for <strong><i>Islamic Studies</i></strong> at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like <strong>coding</strong> for example. Enjoy hacking! 👌👌</div> 
 
 ___
@@ -18,15 +20,16 @@ ___
 <br>
 <br>
 
-## 🔭 I'm currently working on:
+### 🔭 I'm currently working on:
 
-- > PPI Sudan __[PPI](https://ppisudan.com)__ by __NodeJS, PHP, MongoDB, MySQL, ReactJS, TailwindCSS__
-- > Faculty of Islamic Studies __[IUA](https://github.com/ariefsaifuddien/islamic_studies_web)__ by __NodeJS, ReactJS, PHP, TailwindCSS__
+> PPI Sudan __[PPI](https://ppisudan.com)__ by __NodeJS, PHP, MongoDB, MySQL, ReactJS, TailwindCSS__
+
+> Faculty of Islamic Studies __[IUA](https://github.com/ariefsaifuddien/islamic_studies_web)__ by __NodeJS, ReactJS, PHP, TailwindCSS__
 
 <br>
 <br>
 
-## 💼 Technical Skills:
+### 💼 Technical Skills:
 
 1. > ```Natives```
 
