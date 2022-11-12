@@ -2,15 +2,6 @@
 
 <p align="center">Hi there! 👋, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a></p>
 
-<p align="center"><strong>Full-Stack Developer (Junior), and Designer!</strong></p> 
-
-<p align="center"> 💻 🎨 🤏🏽 💡 🌐 💾 💰 📋 </p>
-
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 <div align="center">📚 📚 I'm a student for <strong><i>Islamic Studies</i></strong> at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like <strong>coding</strong> for example. Enjoy hacking! 👌👌</div> 
@@ -20,11 +11,11 @@ ___
 <br>
 <br>
 
-### 🔭 I'm currently working on:
+### 🔭 Working on:
 
-> PPI Sudan __[PPI](https://ppisudan.com)__ by __NodeJS, PHP, MongoDB, MySQL, ReactJS, TailwindCSS__
+> PPI Sudan __[WEB](https://ppisudan.com)__ 
 
-> Faculty of Islamic Studies __[IUA](https://github.com/ariefsaifuddien/islamic_studies_web)__ by __NodeJS, ReactJS, PHP, TailwindCSS__
+> Faculty of Islamic Studies __[IUA](https://github.com/ariefsaifuddien/islamic_studies_web)__
 
 <br>
 <br>
