@@ -1,6 +1,9 @@
 <br>
 
-<h3 align="center">Hi folks! 👋, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a></h3>
+<h3 align="center">Folks! 👋, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a> 🇮🇩</h3>
+<p align="center"><code>Full-Stack Developer (Junior)</code></p>
+
+<br>
 
 ---
 
