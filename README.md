@@ -4,13 +4,13 @@
 
 ---
 
-<p align="center">📚 📚 I'm a student for <strong><i>Islamic Studies</i></strong> at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like <strong>coding</strong> for example. Enjoy hacking! 👌👌</p> 
+<p align="center">I'm a student for <strong><i>Islamic Studies</i></strong> at Internaional University of Africa in Khartoum, Sudan. Just i like to trying anything new in my life, like <strong>coding</strong> for example. Enjoy hacking! ✌</p> 
 
 ---
 
 <br>
 
-### 🔭 Working on:
+### Working on:
 
 > PPI Sudan __[WEB](https://ppisudan.com)__ 
 
@@ -18,7 +18,7 @@
 
 <br>
 
-### 💼 Technical Skills:
+### Technical Skills:
 
 ```Natives```
 
