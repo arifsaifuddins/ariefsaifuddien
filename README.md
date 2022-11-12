@@ -18,19 +18,15 @@ ___
 <br>
 <br>
 
-```
 ## 🔭 I'm currently working on:
-```
 
-- [x] PPI Sudan __[PPI](https://ppisudan.com)__ by __NodeJS, PHP, MongoDB, MySQL, ReactJS, TailwindCSS__
-- [x] Faculty of Islamic Studies __[IUA](https://github.com/ariefsaifuddien/islamic_studies_web)__ by __NodeJS, ReactJS, PHP, TailwindCSS__
+- > PPI Sudan __[PPI](https://ppisudan.com)__ by __NodeJS, PHP, MongoDB, MySQL, ReactJS, TailwindCSS__
+- > Faculty of Islamic Studies __[IUA](https://github.com/ariefsaifuddien/islamic_studies_web)__ by __NodeJS, ReactJS, PHP, TailwindCSS__
 
 <br>
 <br>
 
-```
 ## 💼 Technical Skills:
-```
 
 1. > ```Natives```
 
