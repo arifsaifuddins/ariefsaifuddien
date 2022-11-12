@@ -76,10 +76,10 @@
 ---
 
 <p align="center">
-  <a href="http://wa.me/+249121208279" target="_blank" rel="noreferrer">wa</a> . 
-  <a href="https://instagram.com/ariefsaifudien" target="_blank" rel="noreferrer">ig</a> . 
-  <a href="https://twitter.com/ariefsaifudien" target="_blank" rel="noreferrer">tw</a> . 
-  <a href="https://facebook.com/ariefsaifudien01" target="_blank" rel="noreferrer">fb</a> . 
-  <a href="https://linkedin.com/in/ariefsaifudien" target="_blank" rel="noreferrer">li</a> . 
-  <a href="mailto:ariefsaifudien01@gmail.com" target="_blank" rel="noreferrer">ml</a>
+  <a href="http://wa.me/+249121208279" target="_blank" rel="noreferrer"><img alt="wa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a> ... 
+  <a href="https://instagram.com/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> ... 
+  <a href="https://twitter.com/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="tw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> ... 
+  <a href="https://facebook.com/ariefsaifudien01" target="_blank" rel="noreferrer"><img alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> ... 
+  <a href="https://linkedin.com/in/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="li" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> ... 
+  <a href="mailto:ariefsaifudien01@gmail.com" target="_blank" rel="noreferrer"><img alt="gm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" color="red" /></a>
 </p>
