@@ -14,7 +14,7 @@
 
 > PPI Sudan __[WEB](https://ppisudan.com)__ 
 
-> Faculty of Islamic Studies __[IUA WEB](https://github.com/ariefsaifuddien/islamic_studies_web)__
+> Faculty of Islamic Studies __[WEB](https://github.com/ariefsaifuddien/islamic_studies_web)__
 
 <br>
 
