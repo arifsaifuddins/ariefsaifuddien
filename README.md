@@ -2,9 +2,7 @@
 
 <p align="center">Hi there! 👋, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a></p>
 
-<div align="center">Full-Stack Developer (Junior), and Designer!</div> 
-
-<br>
+<p align="center"><strong>Full-Stack Developer (Junior), and Designer!</strong></p> 
 
 <p align="center"> 💻 🎨 🤏🏽 💡 🌐 💾 💰 📋 </p>
 
