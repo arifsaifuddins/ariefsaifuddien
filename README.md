@@ -17,7 +17,9 @@
 
 > __[Web](https://ppisudan.com)__ ```PPI Sudan```
 
-> __[Web](https://github.com/ariefsaifuddien/islamic_studies_web)__ ```Faculty of Islamic Studies```
+> __[Web](https://islamicstudies.vercel.app)__ ```Faculty of Islamic Studies```
+
+> __[Web](https://quranme.vercel.app)__ ```Quran Me API```
 
 <br>
 
