@@ -30,14 +30,14 @@
 > ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 > ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&color=334477)
 > ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=003B57)
-> ![](https://img.shields.io/badge/Language-Golang-informational?style=flat&logo=Go&color=FFFFFF)
+> ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=Go&color=FFFFFF)
     
 <br>
 
 ```Frameworks```
 
 > ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=553399)
-> ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwind-css&color=117799)
+> ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&color=117799)
 > ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&color=pink)
 > ![](https://img.shields.io/badge/Language-Laravel-informational?style=flat&logo=Laravel&color=darkred)
 > ![](https://img.shields.io/badge/Language-jQuery-informational?style=flat&logo=jquery&color=ffffff)
@@ -73,8 +73,6 @@
 > ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=333fff)
 > ![](https://img.shields.io/badge/Tools-Affinity-informational?style=flat&logo=affinity-designer&color=blue)
 > ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&color=lightblue)
-> ![](https://img.shields.io/badge/Tools-Fedora-informational?style=flat&logo=fedora&color=darkblue)
-> ![](https://img.shields.io/badge/Tools-Windows-informational?style=flat&logo=windows&color=lightgrey)
 
 <br>
 <br>
