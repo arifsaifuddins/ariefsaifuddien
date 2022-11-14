@@ -30,6 +30,7 @@
 > ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&color=E34F26)
 > ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&color=1572B6)
 > ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+> ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=TypeScript&color=blue)
 > ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&color=334477)
 > ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=003B57)
 > ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=Go&color=FFFFFF)
@@ -61,6 +62,7 @@
 > ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=lightblue)
 > ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=white)
 > ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=darkgrey)
+> ![](https://img.shields.io/badge/Library-Sequelize-informational?style=flat&logo=sequelize&color=blue)
 
 <br>
 
