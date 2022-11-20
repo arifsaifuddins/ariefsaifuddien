@@ -7,13 +7,13 @@
 
 ---
 
-<p align="center">I'm a student for <a href="https://islamicstudies.vercel.app" target="_blank" rel="noreferrer"><strong><i>Islamic Studies</i></strong></a> at <code>Internaional University of Africa</code> in Khartoum, Sudan. Just i like to trying new things in my life, like <strong><i>coding</i></strong> for example. Enjoy hacking! ✌</p> 
+<p align="center">I'm a student for <a href="https://islamicstudies.vercel.app" target="_blank" rel="noreferrer"><strong><i>Islamic Studies</i></strong></a> at <code>Internaional University of Africa</code> in Khartoum, Sudan. Just i like to trying new things in my life, like <strong><u>coding</u></strong> for example. Enjoy hacking! ✌</p> 
 
 ---
 
 <br>
 
-### Working on:
+### Working Stay:
 
 > __[Web](https://ppisudan.com)__ ```PPI Sudan```
 
@@ -84,7 +84,7 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariefsaifuddien&layout=compact&hide_border=true&theme=nord&hide_title=true&langs_count=8"/>
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariefsaifuddien&layout=compact&hide_border=true&theme=nord&hide_title=true&langs_count=6"/>
 </p>
 
 <br>
