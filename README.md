@@ -27,8 +27,8 @@
 
 ```Natives```
 
-> ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&color=E34F26)
-> ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&color=1572B6)
+> ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&color=E34C26)
+> ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&color=2965f1)
 > ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 > ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=TypeScript&color=blue)
 > ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&color=334477)
@@ -86,9 +86,6 @@
 <p align="center">
   <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariefsaifuddien&layout=compact&hide_border=true&theme=nord&hide_title=true&langs_count=6"/>
 </p>
-
-<br>
-<br>
 
 ---
 
