@@ -84,12 +84,6 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariefsaifuddien&layout=compact&hide_border=true&theme=nord&hide_title=true&langs_count=6"/>
-</p>
-
----
-
-<p align="center">
   <a href="http://wa.me/+249121208279" target="_blank" rel="noreferrer"><img alt="wa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a> ... 
   <a href="https://instagram.com/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> ... 
   <a href="https://twitter.com/ariefsaifudien" target="_blank" rel="noreferrer"><img alt="tw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> ... 
