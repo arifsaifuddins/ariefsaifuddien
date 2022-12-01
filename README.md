@@ -27,56 +27,59 @@
 
 ```Natives```
 
-> ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&color=E34C26)
-> ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&color=2965f1)
-> ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-> ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=TypeScript&color=blue)
-> ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&color=334477)
-> ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=003B57)
-> ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=Go&color=FFFFFF)
+> ![](https://img.shields.io/badge/Markup-HTML-informational?style=plastic&logo=HTML5&color=E34C26)
+> ![](https://img.shields.io/badge/Style-CSS-informational?style=plastic&logo=CSS3&color=2965f1)
+> ![](https://img.shields.io/badge/Language-Javascript-informational?style=plastic&logo=JavaScript&color=F7DF1E)
+> ![](https://img.shields.io/badge/Language-Typescript-informational?style=plastic&logo=TypeScript&color=blue)
+> ![](https://img.shields.io/badge/Language-PHP-informational?style=plastic&logo=php&color=334477)
+> ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=Python&color=003B57)
+> ![](https://img.shields.io/badge/Language-Go-informational?style=plastic&logo=Go&color=FFFFFF)
     
 <br>
 
 ```Frameworks```
 
-> ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=553399)
-> ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&color=117799)
-> ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&color=pink)
-> ![](https://img.shields.io/badge/Language-Laravel-informational?style=flat&logo=Laravel&color=darkred)
-> ![](https://img.shields.io/badge/Language-jQuery-informational?style=flat&logo=jquery&color=ffffff)
-> ![](https://img.shields.io/badge/Language-ReactJS-informational?style=flat&logo=react&color=61DAFB)
-> ![](https://img.shields.io/badge/Language-VueJS-informational?style=flat&logo=vuedotjs&color=11ss11)
-> ![](https://img.shields.io/badge/Server-NodeJS-informational?style=flat&logo=node.js&color=007700)
-> ![](https://img.shields.io/badge/Server-ExpressJS-informational?style=flat&logo=express&color=aaaaaa)
-> ![](https://img.shields.io/badge/Server-Flask-informational?style=flat&logo=flask&color=white)
-> ![](https://img.shields.io/badge/Server-Fiber-informational?style=flat&logo=go&color=lightblue)
-> ![](https://img.shields.io/badge/Mobile-Expo-informational?style=flat&logo=expo&color=222222)
-> ![](https://img.shields.io/badge/Mobile-React%20Native-informational?style=flat&logo=react&color=212121)
+> ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=plastic&logo=bootstrap&color=553399)
+> ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=plastic&logo=tailwind-css&color=117799)
+> ![](https://img.shields.io/badge/Style-SASS-informational?style=plastic&logo=SASS&color=pink)
+> ![](https://img.shields.io/badge/Style-LESS-informational?style=plastic&logo=LESS&color=blue)
+> ![](https://img.shields.io/badge/Language-Laravel-informational?style=plastic&logo=Laravel&color=darkred)
+> ![](https://img.shields.io/badge/Language-jQuery-informational?style=plastic&logo=jquery&color=ffffff)
+> ![](https://img.shields.io/badge/Language-ReactJS-informational?style=plastic&logo=react&color=61DAFB)
+> ![](https://img.shields.io/badge/Language-VueJS-informational?style=plastic&logo=vuedotjs&color=11ss11)
+> ![](https://img.shields.io/badge/Server-NodeJS-informational?style=plastic&logo=node.js&color=007700)
+> ![](https://img.shields.io/badge/Server-ExpressJS-informational?style=plastic&logo=express&color=aaaaaa)
+> ![](https://img.shields.io/badge/Server-Flask-informational?style=plastic&logo=flask&color=white)
+> ![](https://img.shields.io/badge/Server-Fiber-informational?style=plastic&logo=go&color=lightblue)
+> ![](https://img.shields.io/badge/Mobile-Expo-informational?style=plastic&logo=expo&color=222222)
+> ![](https://img.shields.io/badge/Mobile-React%20Native-informational?style=plastic&logo=react&color=212121)
 
 <br>
 
 ```Databases```
 
-> ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=007700)
-> ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&color=bbbbbb)
-> ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=lightblue)
-> ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=white)
-> ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=darkgrey)
-> ![](https://img.shields.io/badge/Library-Sequelize-informational?style=flat&logo=sequelize&color=blue)
+> ![](https://img.shields.io/badge/Database-MongoDB-informational?style=plastic&logo=mongodb&color=007700)
+> ![](https://img.shields.io/badge/Database-MariaDB-informational?style=plastic&logo=mariadb&color=bbbbbb)
+> ![](https://img.shields.io/badge/Database-MySQL-informational?style=plastic&logo=mysql&color=lightblue)
+> ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=plastic&logo=postgresql&color=white)
+> ![](https://img.shields.io/badge/Database-SQLite-informational?style=plastic&logo=sqlite&color=darkgrey)
 
 <br>
 
 ```Tools```
 
-> ![](https://img.shields.io/badge/Packages-NPM-informational?style=flat&logo=npm&color=red)
-> ![](https://img.shields.io/badge/Packages-Yarn-informational?style=flat&logo=yarn&color=blue)
-> ![](https://img.shields.io/badge/Auth-JWT-informational?style=flat&logo=JSON%20web%20tokens&color=white)
-> ![](https://img.shields.io/badge/Auth-PassportJS-informational?style=flat&logo=passport&color=white)
-> ![](https://img.shields.io/badge/Control-Git-informational?style=flat&logo=git&color=red)
-> ![](https://img.shields.io/badge/Control-Github-informational?style=flat&logo=github&color=white)
-> ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=333fff)
-> ![](https://img.shields.io/badge/Tools-Affinity-informational?style=flat&logo=affinity-designer&color=blue)
-> ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&color=lightblue)
+> ![](https://img.shields.io/badge/Packages-NPM-informational?style=plastic&logo=npm&color=red)
+> ![](https://img.shields.io/badge/Packages-Yarn-informational?style=plastic&logo=yarn&color=blue)
+> ![](https://img.shields.io/badge/Library-Sequelize-informational?style=plastic&logo=sequelize&color=blue)
+> ![](https://img.shields.io/badge/Library-Prisma-informational?style=plastic&logo=prisma&color=yellow)
+> ![](https://img.shields.io/badge/Library-Mongoose-informational?style=plastic&logo=mongodb&color=red)
+> ![](https://img.shields.io/badge/Auth-JWT-informational?style=plastic&logo=JSON%20web%20tokens&color=white)
+> ![](https://img.shields.io/badge/Auth-PassportJS-informational?style=plastic&logo=passport&color=white)
+> ![](https://img.shields.io/badge/Control-Git-informational?style=plastic&logo=git&color=red)
+> ![](https://img.shields.io/badge/Control-Github-informational?style=plastic&logo=github&color=white)
+> ![](https://img.shields.io/badge/Tools-Figma-informational?style=plastic&logo=figma&color=333fff)
+> ![](https://img.shields.io/badge/Tools-Affinity-informational?style=plastic&logo=affinity-designer&color=blue)
+> ![](https://img.shields.io/badge/Tools-VSCode-informational?style=plastic&logo=visual-studio-code&color=lightblue)
 
 <br>
 <br>
