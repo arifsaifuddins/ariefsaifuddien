@@ -70,6 +70,8 @@
 
 > ![](https://img.shields.io/badge/Packages-NPM-informational?style=plastic&logo=npm&color=red)
 > ![](https://img.shields.io/badge/Packages-Yarn-informational?style=plastic&logo=yarn&color=blue)
+> ![](https://img.shields.io/badge/Bundler-Webpack-informational?style=plastic&logo=webpack&color=white)
+> ![](https://img.shields.io/badge/Bundler-Vite-informational?style=plastic&logo=vite&color=purple)
 > ![](https://img.shields.io/badge/Library-Sequelize-informational?style=plastic&logo=sequelize&color=blue)
 > ![](https://img.shields.io/badge/Library-Prisma-informational?style=plastic&logo=prisma&color=yellow)
 > ![](https://img.shields.io/badge/Library-Mongoose-informational?style=plastic&logo=mongodb&color=red)
