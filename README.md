@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center">I'm a student for <a href="https://islamicstudies.vercel.app" target="_blank" rel="noreferrer"><strong><i>Islamic Studies</i></strong></a> at <code>Internaional University of Africa</code> in Khartoum, Sudan. Just i like to trying new things in my life, like <strong><u>coding</u></strong> for example. Enjoy hacking! ✌</p> 
+<p align="center">I'm an academician degree for <a href="https://islamicstudies.vercel.app" target="_blank" rel="noreferrer"><strong><i>Islamic Studies</i></strong></a> at <code>Internaional University of Africa</code> in Khartoum, Sudan. Just i like to trying new things in my life, like <strong><u>coding</u></strong> for example. Enjoy hacking! ✌</p> 
 
 ---
 
