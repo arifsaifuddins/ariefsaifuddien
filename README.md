@@ -40,13 +40,16 @@
 ```Frameworks```
 
 > ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=plastic&logo=bootstrap&color=553399)
-> ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=plastic&logo=tailwind-css&color=117799)
+> ![](https://img.shields.io/badge/Style-Bulma-informational?style=plastic&logo=bulma&color=green)
+> ![](https://img.shields.io/badge/Style-Tailwind-informational?style=plastic&logo=tailwind-css&color=117799)
 > ![](https://img.shields.io/badge/Style-SASS-informational?style=plastic&logo=SASS&color=pink)
 > ![](https://img.shields.io/badge/Style-LESS-informational?style=plastic&logo=LESS&color=blue)
 > ![](https://img.shields.io/badge/Language-Laravel-informational?style=plastic&logo=Laravel&color=darkred)
 > ![](https://img.shields.io/badge/Language-jQuery-informational?style=plastic&logo=jquery&color=ffffff)
 > ![](https://img.shields.io/badge/Language-ReactJS-informational?style=plastic&logo=react&color=61DAFB)
+> ![](https://img.shields.io/badge/Language-NextJS-informational?style=plastic&logo=next.js&color=black)
 > ![](https://img.shields.io/badge/Language-VueJS-informational?style=plastic&logo=vuedotjs&color=11ss11)
+> ![](https://img.shields.io/badge/Language-NuxtJS-informational?style=plastic&logo=nuxt&color=green)
 > ![](https://img.shields.io/badge/Server-NodeJS-informational?style=plastic&logo=node.js&color=007700)
 > ![](https://img.shields.io/badge/Server-ExpressJS-informational?style=plastic&logo=express&color=aaaaaa)
 > ![](https://img.shields.io/badge/Server-Flask-informational?style=plastic&logo=flask&color=white)
