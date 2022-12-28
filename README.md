@@ -28,6 +28,7 @@
 ```Natives```
 
 > ![](https://img.shields.io/badge/Markup-HTML-informational?style=plastic&logo=HTML5&color=E34C26)
+> ![](https://img.shields.io/badge/Markup-Markdown-informational?style=plastic&logo=Markdown&color=white)
 > ![](https://img.shields.io/badge/Style-CSS-informational?style=plastic&logo=CSS3&color=2965f1)
 > ![](https://img.shields.io/badge/Language-Javascript-informational?style=plastic&logo=JavaScript&color=F7DF1E)
 > ![](https://img.shields.io/badge/Language-Typescript-informational?style=plastic&logo=TypeScript&color=blue)
