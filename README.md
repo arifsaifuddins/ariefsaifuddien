@@ -67,6 +67,12 @@
 > ![](https://img.shields.io/badge/Database-MySQL-informational?style=plastic&logo=mysql&color=lightblue)
 > ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=plastic&logo=postgresql&color=white)
 > ![](https://img.shields.io/badge/Database-SQLite-informational?style=plastic&logo=sqlite&color=darkgrey)
+> ![](https://img.shields.io/badge/ORM-Sequelize-informational?style=plastic&logo=sequelize&color=blue)
+> ![](https://img.shields.io/badge/ORM-Prisma-informational?style=plastic&logo=prisma&color=yellow)
+> ![](https://img.shields.io/badge/ORM-Mongoose-informational?style=plastic&logo=mongodb&color=red)
+> ![](https://img.shields.io/badge/ORM-SQLAlchemy-informational?style=plastic&logo=flask&color=black)
+> ![](https://img.shields.io/badge/ORM-Eloquent-informational?style=plastic&logo=laravel&color=pink)
+> ![](https://img.shields.io/badge/ORM-GORM-informational?style=plastic&logo=go&color=white)
 
 <br>
 
@@ -76,12 +82,6 @@
 > ![](https://img.shields.io/badge/Packages-Yarn-informational?style=plastic&logo=yarn&color=blue)
 > ![](https://img.shields.io/badge/Bundler-Webpack-informational?style=plastic&logo=webpack&color=white)
 > ![](https://img.shields.io/badge/Bundler-Vite-informational?style=plastic&logo=vite&color=purple)
-> ![](https://img.shields.io/badge/ORM-Sequelize-informational?style=plastic&logo=sequelize&color=blue)
-> ![](https://img.shields.io/badge/ORM-Prisma-informational?style=plastic&logo=prisma&color=yellow)
-> ![](https://img.shields.io/badge/ORM-Mongoose-informational?style=plastic&logo=mongodb&color=red)
-> ![](https://img.shields.io/badge/ORM-SQLAlchemy-informational?style=plastic&logo=flask&color=black)
-> ![](https://img.shields.io/badge/ORM-Eloquent-informational?style=plastic&logo=laravel&color=pink)
-> ![](https://img.shields.io/badge/ORM-GORM-informational?style=plastic&logo=go&color=white)
 > ![](https://img.shields.io/badge/Auth-JWT-informational?style=plastic&logo=JSON%20web%20tokens&color=white)
 > ![](https://img.shields.io/badge/Auth-PassportJS-informational?style=plastic&logo=passport&color=green)
 > ![](https://img.shields.io/badge/Control-Git-informational?style=plastic&logo=git&color=red)
