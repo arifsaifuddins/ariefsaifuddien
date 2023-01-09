@@ -57,6 +57,7 @@
 > ![](https://img.shields.io/badge/Server-Fiber-informational?style=plastic&logo=go&color=lightblue)
 > ![](https://img.shields.io/badge/Mobile-Expo-informational?style=plastic&logo=expo&color=222222)
 > ![](https://img.shields.io/badge/Mobile-React%20Native-informational?style=plastic&logo=react&color=212121)
+> ![](https://img.shields.io/badge/Mobile-Ionic-informational?style=plastic&logo=ionic&color=blue)
 
 <br>
 
