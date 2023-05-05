@@ -2,6 +2,7 @@
 
 <h3 align="center">Folks! 👋, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a> <img alt="idflag" width="22px" src="https://www.searchmap.eu/images/indonesia.png" /></h3>
 <p align="center"><code>Full-Stack Developer Jr.</code></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ariefsaifuddien" alt="Arief Saifuddien"/></p>
 
 <br>
 
@@ -36,7 +37,7 @@
 > ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=Python&color=003B57)
 > ![](https://img.shields.io/badge/Language-Go-informational?style=plastic&logo=Go&color=FFFFFF)
     
-<br>
+<!-- <br>
 
 ```Frameworks```
 
@@ -92,7 +93,7 @@
 > ![](https://img.shields.io/badge/Tools-Affinity-informational?style=plastic&logo=affinity-designer&color=blue)
 > ![](https://img.shields.io/badge/Tools-VSCode-informational?style=plastic&logo=visual-studio-code&color=lightblue)
 
-<br>
+<br> -->
 <br>
 
 ---
